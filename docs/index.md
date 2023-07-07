@@ -63,6 +63,3 @@ __Brigham Young University - Idaho__, Textbook Author
 - English (Native), Python, Mathematica, Microsoft Office Suite, Google Suite, AnyLogic, Algebra, Geometry, Linear Algebra, Calculus (I, II, III), Differential and Partial Differential Equations, Statistics, Analysis (Numerical, Real, Complex), Optimization, Teaching, Problem-solving, Time-management, Creativity, Leadership
 
 
-<!-- ### Footer
-
-
