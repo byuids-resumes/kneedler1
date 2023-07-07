@@ -1,89 +1,68 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Sophia Kneedler's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Sophia Kneedler
+An applied mathematics major from Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<a href="sophiakneedler@gmail.com">sophiakneedler@gmail.com</a>
+| <a href="https://www.linkedin.com/in/sophiakneedler/">LinkedIn</a>
+</div> 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021 - 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.90/4.00 GPA
+- Major in Mathematics with an Emphasis in Applied Mathematics
+- College of Physical Science and Engineering Student Success Councilmember
+
+`2019 - 2021`
+__St. Louis Community College__, St. Louis, MO
+
+- 4.00/4.00 GPA
+- Dean's List Member and Phi Theta Kappa Member
 
 
 ## Related Experience
 
-### Internships
+### Senior Project
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jan 2023 - Apr 2023`
+__Brigham Young University - Idaho__, Student Researcher
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created LaTex document simplifying how to solve Partial Differential Equations using multiple methods
+- Developed further skills in solving multivariable non-homogeneous PDE's by thoroughly explaining 3 main types of PDE's
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Work Experience
 
 
-## Service and Work History
+`Jan 2023 - Jul 2023`
+__Brigham Young University - Idaho__, Math Study Center Supervisor
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Improved Math Study Center by implementing new design to streamline arrangement of 40 tables and up to 10 tutor placements while collecting data on said placements
+- Oversaw up to 10 tutors and over 30 students multiple times a week to ensure proper tutoring practices
+- Operated international online chat system for over 18,000 BYU-I students enrolled in a mathematics class and seeking help in assignments and projects
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`Jan 2022 - Jul 2023`
+__Brigham Young University - Idaho__, Math Tutor
 
+- Tutored over 20 college students from 100 to 400 level classes multiple times a week
+- Customized hour-long daily lessons for each student based on specific needs and education level
+
+`Sep 2022 - Dec 2022`
+__Brigham Young University - Idaho__, Textbook Author
+
+- Authored over 1000 workbook problems spanning six-chapters for a beginning algebra textbook used by Brigham Young University
+- Partnered with three different teams to publish a mathematics textbook within four months
+
+## Skills
+- English (Native), Python, Mathematica, Microsoft Office Suite, Google Suite, AnyLogic, Algebra, Geometry, Linear Algebra, Calculus (I, II, III), Differential and Partial Differential Equations, Statistics, Analysis (Numerical, Real, Complex), Optimization, Teaching, Problem-solving, Time-management, Creativity, Leadership
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
 
 
